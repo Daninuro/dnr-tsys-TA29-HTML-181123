@@ -1,0 +1,30 @@
+table{
+    border: 1px solid;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    border-color: gray;
+}
+h4{
+    margin: 0%;
+    text-align: center;
+    font-size: smaller;
+}
+td{
+    border-color: gray;
+    border: 1px solid;
+}
+.CeldaUno{
+    background-color: rgb(127, 255, 127);
+}
+.CeldaDos{
+    background-color: aquamarine;
+    text-align:left;
+}
+.CeldaSeis{
+    background-color: rgb(255, 192, 236);
+    text-align:right;
+}
+.Celdasrojos{
+    color: red;
+}
